@@ -1,0 +1,6 @@
+name: Venkat Naveen
+id:2358250208
+course:BCA
+college:Aditya Degree College
+subject: Cloud computing
+phone number:7396649608
